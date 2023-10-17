@@ -1,4 +1,4 @@
-# assignment
+# synkrama_tech
 
 A new Flutter project.
 
